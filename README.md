@@ -1,16 +1,17 @@
-# meals_app
+# Meals App
 
-A new Flutter project.
+A Flutter application for browsing and managing meals and recipes.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Dark theme with custom color scheme
+- Google Fonts integration (Lato font family)
+- State management using Riverpod
+- Tab-based navigation interface
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+```sh
+git clone https://github.com/harshhsaini/flutter-meals-app
